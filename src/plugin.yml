@@ -1,0 +1,9 @@
+name: SkeletonPlugin
+version: 0.0.1
+description: Skeleton Plugin for Tutorial
+author: [BuffsOverNexus]
+main: com.buffsovernexus.SkeletonPlugin
+
+commands:
+        test:
+            description: A simple example of a test command.
